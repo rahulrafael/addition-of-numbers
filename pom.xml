@@ -11,7 +11,7 @@
     <name>number-addition</name>
 
     <dependencies>
-        <!-- You can add dependencies here if needed -->
+        <!-- No test dependencies -->
     </dependencies>
 
     <build>
